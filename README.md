@@ -1,4 +1,4 @@
-# BAITAP1 - API Mô Tả Ảnh Bằng AI
+# API Mô Tả Ảnh Bằng AI
 
 ## 1) Thông tin sinh viên
 - Họ và tên: Lê Phạm Đăng Khiêm
@@ -152,7 +152,12 @@ Ví dụ response lỗi:
 ```
 
 ## 7) Liên kết video demo
-- [Điền link video demo tại đây]
+Bạn có thể xem video demo tại đây:
+
+### Cách 1: Link YouTube (khuyến nghị)
+[![Xem video demo](https://img.youtube.com/vi/7s5cMaNOnK8/0.jpg)](https://youtu.be/7s5cMaNOnK8)
+
+Hoặc mở trực tiếp: https://youtu.be/7s5cMaNOnK8
 
 ## 8) Cấu trúc file chính
 - api_server.py: Server FastAPI và các endpoint.
