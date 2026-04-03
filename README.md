@@ -3,7 +3,7 @@
 ## 1) Thông tin sinh viên
 - Họ và tên: Lê Phạm Đăng Khiêm
 - MSSV: 24120341
-- Lớp: 24CTT3B
+- Lớp: 24CTT3
 - Môn học: Tư duy tính toán
 
 ## 2) Tên mô hình và liên kết Hugging Face
@@ -152,7 +152,7 @@ Ví dụ response lỗi:
 ```
 
 ## 7) Liên kết video demo
-Bạn có thể xem video demo tại đây:
+Bạn có thể xem video demo đơn giản tại đây:
 
 ### YouTube
 [![Xem video demo](https://img.youtube.com/vi/7s5cMaNOnK8/0.jpg)](https://youtu.be/7s5cMaNOnK8)
